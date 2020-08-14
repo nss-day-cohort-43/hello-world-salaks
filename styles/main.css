@@ -1,0 +1,22 @@
+.country-card {
+    border-width: 1em;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+}
+.country-facts {
+    display: flex;
+    justify-content: space-evenly;
+    border-width: initial;
+    border-style: dotted;
+    border-color: teal;
+    border-image: initial;
+    flex-grow: 0.5em;
+}
+
+.countryList {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
