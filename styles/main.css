@@ -1,0 +1,24 @@
+
+.countries {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    color: white;
+    background-color: blueviolet;
+
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: white;
+}
