@@ -1,22 +1,24 @@
-.country-card {
-    border-width: 1em;
-    border-style: solid;
-    border-color: red;
-    border-image: initial;
-}
-.country-facts {
+
+.countries {
     display: flex;
     justify-content: space-evenly;
-    border-width: initial;
-    border-style: dotted;
-    border-color: teal;
-    border-image: initial;
-    flex-grow: 0.5em;
+    list-style-type: none;
+    color: white;
+    background-color: blueviolet;
+
 }
 
-.countryList {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: white;
 }
