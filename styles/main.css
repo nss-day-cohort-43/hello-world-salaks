@@ -2,8 +2,6 @@
 .countries {
     display: flex;
     justify-content: space-evenly;
-<<<<<<< HEAD
-=======
     list-style-type: none;
     color: white;
     background-color: blueviolet;
@@ -23,5 +21,4 @@ a:hover {
 }
 a:active {
     color: white;
->>>>>>> dc-salaks-argentina
 }
