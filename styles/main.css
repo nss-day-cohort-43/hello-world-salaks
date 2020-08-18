@@ -64,3 +64,22 @@ h2 {
     font: 35px bold;
     margin: 2em;
 }
+
+.country-facts {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+.countryList-card {
+    display: flex;
+    flex-basis: 5em;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
