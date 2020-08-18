@@ -3,8 +3,8 @@
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    color: white;
     background-color: blueviolet;
+    height: 35em;   
 
 }
 
@@ -20,5 +20,5 @@ a:hover {
     color: hotpink;
 }
 a:active {
-    color: white;
+    color:  orange;
 }
